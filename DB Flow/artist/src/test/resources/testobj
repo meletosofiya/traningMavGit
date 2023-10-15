@@ -1,0 +1,19 @@
+Long id;
+String name;
+String bio;
+Instant createDate;
+
+----
+Long id;
+String firstName;
+String lastName;
+String email;
+Instant createDate;
+
+--
+
+String name;
+Instant createDate;
+
+
+
